@@ -1,4 +1,5 @@
 theme: minima
 title: asogaut
+skin: dark
 github:
   is_project_page: false
