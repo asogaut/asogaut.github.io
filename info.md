@@ -1,5 +1,7 @@
+---
 layout: page
-title: "info"
+title: "Info"
 permalink: /info/
+---
 
 Will this work?
